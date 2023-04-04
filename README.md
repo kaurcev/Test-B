@@ -1,5 +1,7 @@
 # Test-B
 
+Implement a client application.
+There are 5,000 targets moving around, with the player having ability to shoot at them. A hit removes the target from the scene. After the start of the game, the player has 1 minute of play time. Once it's out, show a screen with basic statistics such as amount of shots, amount of targets hit, % of hits and % of misses.
 
 ##Installation
 
