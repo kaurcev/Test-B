@@ -5,6 +5,8 @@ There are 5,000 targets moving around, with the player having ability to shoot a
 
 <img src="ReadMeFiles/Screen.png">
 
+https://fantastic-liger-685c9c.netlify.app/
+
 ##### This decision was made solely for the purpose of implementing the specified task. **Minimal time** was spent on the design of the application.
 
 ## Installation
